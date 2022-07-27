@@ -1,4 +1,5 @@
-# Image SearchApp-ReactJs
+# Image SearchApp
+## Using ReactJs
 
 ## Screenshots 
 
